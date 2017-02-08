@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 import tensorflow as tf
 
 
-FOLDER_PATH = os.path.join(os.getcwd(),'cifar-10-batches-bin')
+FOLDER_PATH = os.path.join(os.getcwd(),'cifar-10-batches-py')
 HEIGHT = 32
 WIDTH = 32
 DEPTH = 3
